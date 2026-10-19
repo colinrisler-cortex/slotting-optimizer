@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "slotting-optimizer"
+  x-cortex-tag: "slotting-optimizer"
+  x-cortex-description: "Velocity-based slot reassignment engine"
+  x-cortex-owners:
+    - type: group
+      name: "Fulfillment Engineering Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001402"
+    apm_name: "Warehouse Management System"
+    cost_center: "CC-4410"
